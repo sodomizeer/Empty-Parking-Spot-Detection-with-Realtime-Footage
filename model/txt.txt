@@ -1,0 +1,5 @@
+This folder contains Model training Jupyter Notebook File
+
+But you need to have the Data for the training.
+
+For Data Send me an email at newaz.nahian@northsouth.edu
