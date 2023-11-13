@@ -4,3 +4,4 @@
 # Pillow==9.3.0
 # scikit-image==0.17.2
 # matplotlib==3.6.2
+# Fuckumean
